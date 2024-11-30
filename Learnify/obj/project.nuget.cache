@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1gfLQ+2LcrL5cMZFAJcPhbVaZtAC+p9H2ldYXFshH67JsXAi5hwr8YgnUA3OJmECv/tGV0DtnBW6xT82UzLesw==",
+  "dgSpecHash": "i8PCsLyh0a/wPVyVufXxB8g/BwSuZQfdkvpE6NizjfnlM0M2CTuka9X65j+/YiybIPHa56flpR952qFgg17TYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\remon\\Source\\Repos\\Learnify\\Learnify\\Learnify.csproj",
+  "projectFilePath": "C:\\Users\\remon\\source\\repos\\Learnify\\Learnify\\Learnify.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\remon\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\remon\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

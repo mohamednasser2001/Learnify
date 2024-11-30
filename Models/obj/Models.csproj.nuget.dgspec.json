@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\remon\\Source\\Repos\\Learnify\\Models\\Models.csproj": {}
+    "C:\\Users\\remon\\source\\repos\\Learnify\\Models\\Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\remon\\Source\\Repos\\Learnify\\Models\\Models.csproj": {
+    "C:\\Users\\remon\\source\\repos\\Learnify\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\remon\\Source\\Repos\\Learnify\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Users\\remon\\source\\repos\\Learnify\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\remon\\Source\\Repos\\Learnify\\Models\\Models.csproj",
+        "projectPath": "C:\\Users\\remon\\source\\repos\\Learnify\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\remon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\remon\\Source\\Repos\\Learnify\\Models\\obj\\",
+        "outputPath": "C:\\Users\\remon\\source\\repos\\Learnify\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\remon\\AppData\\Roaming\\NuGet\\NuGet.Config",

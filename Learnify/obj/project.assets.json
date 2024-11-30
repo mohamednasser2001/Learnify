@@ -4650,11 +4650,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\remon\\Source\\Repos\\Learnify\\Learnify\\Learnify.csproj",
+      "projectUniqueName": "C:\\Users\\remon\\source\\repos\\Learnify\\Learnify\\Learnify.csproj",
       "projectName": "Learnify",
-      "projectPath": "C:\\Users\\remon\\Source\\Repos\\Learnify\\Learnify\\Learnify.csproj",
+      "projectPath": "C:\\Users\\remon\\source\\repos\\Learnify\\Learnify\\Learnify.csproj",
       "packagesPath": "C:\\Users\\remon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\remon\\Source\\Repos\\Learnify\\Learnify\\obj\\",
+      "outputPath": "C:\\Users\\remon\\source\\repos\\Learnify\\Learnify\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\remon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4671,11 +4671,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\remon\\Source\\Repos\\Learnify\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\remon\\Source\\Repos\\Learnify\\Data\\Data.csproj"
+            "C:\\Users\\remon\\source\\repos\\Learnify\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\remon\\source\\repos\\Learnify\\Data\\Data.csproj"
             },
-            "C:\\Users\\remon\\Source\\Repos\\Learnify\\Models\\Models.csproj": {
-              "projectPath": "C:\\Users\\remon\\Source\\Repos\\Learnify\\Models\\Models.csproj"
+            "C:\\Users\\remon\\source\\repos\\Learnify\\Models\\Models.csproj": {
+              "projectPath": "C:\\Users\\remon\\source\\repos\\Learnify\\Models\\Models.csproj"
             }
           }
         }

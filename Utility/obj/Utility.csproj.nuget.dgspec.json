@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\remon\\Source\\Repos\\Learnify\\Utility\\Utility.csproj": {}
+    "C:\\Users\\remon\\source\\repos\\Learnify\\Utility\\Utility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\remon\\Source\\Repos\\Learnify\\Utility\\Utility.csproj": {
+    "C:\\Users\\remon\\source\\repos\\Learnify\\Utility\\Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\remon\\Source\\Repos\\Learnify\\Utility\\Utility.csproj",
+        "projectUniqueName": "C:\\Users\\remon\\source\\repos\\Learnify\\Utility\\Utility.csproj",
         "projectName": "Utility",
-        "projectPath": "C:\\Users\\remon\\Source\\Repos\\Learnify\\Utility\\Utility.csproj",
+        "projectPath": "C:\\Users\\remon\\source\\repos\\Learnify\\Utility\\Utility.csproj",
         "packagesPath": "C:\\Users\\remon\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\remon\\Source\\Repos\\Learnify\\Utility\\obj\\",
         "projectStyle": "PackageReference",
