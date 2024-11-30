@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "ContainingType": "Learnify.Controllers.AcountController",
+    "Method": "Regester",
+    "RelativePath": "api/Acount",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDTO",
+        "Type": "Learnify.DTO.ApplicationUserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\remon\\source\\repos\\Learnify\\Learnify\\Learnify.csproj": {}
+    "D:\\EraaSoft\\ProjectLearnify\\Learnify\\Learnify\\Learnify.csproj": {}
   },
   "projects": {
-    "C:\\Users\\remon\\source\\repos\\Learnify\\Data\\Data.csproj": {
+    "D:\\EraaSoft\\ProjectLearnify\\Learnify\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\remon\\source\\repos\\Learnify\\Data\\Data.csproj",
+        "projectUniqueName": "D:\\EraaSoft\\ProjectLearnify\\Learnify\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\remon\\source\\repos\\Learnify\\Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\remon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\remon\\source\\repos\\Learnify\\Data\\obj\\",
+        "projectPath": "D:\\EraaSoft\\ProjectLearnify\\Learnify\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\mmmzz\\.nuget\\packages\\",
+        "outputPath": "D:\\EraaSoft\\ProjectLearnify\\Learnify\\Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\remon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mmmzz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\remon\\source\\repos\\Learnify\\Models\\Models.csproj": {
-                "projectPath": "C:\\Users\\remon\\source\\repos\\Learnify\\Models\\Models.csproj"
+              "D:\\EraaSoft\\ProjectLearnify\\Learnify\\Models\\Models.csproj": {
+                "projectPath": "D:\\EraaSoft\\ProjectLearnify\\Learnify\\Models\\Models.csproj"
               }
             }
           }
@@ -42,8 +46,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -84,21 +89,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\remon\\source\\repos\\Learnify\\Learnify\\Learnify.csproj": {
+    "D:\\EraaSoft\\ProjectLearnify\\Learnify\\Learnify\\Learnify.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\remon\\source\\repos\\Learnify\\Learnify\\Learnify.csproj",
+        "projectUniqueName": "D:\\EraaSoft\\ProjectLearnify\\Learnify\\Learnify\\Learnify.csproj",
         "projectName": "Learnify",
-        "projectPath": "C:\\Users\\remon\\source\\repos\\Learnify\\Learnify\\Learnify.csproj",
-        "packagesPath": "C:\\Users\\remon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\remon\\source\\repos\\Learnify\\Learnify\\obj\\",
+        "projectPath": "D:\\EraaSoft\\ProjectLearnify\\Learnify\\Learnify\\Learnify.csproj",
+        "packagesPath": "C:\\Users\\mmmzz\\.nuget\\packages\\",
+        "outputPath": "D:\\EraaSoft\\ProjectLearnify\\Learnify\\Learnify\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\remon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mmmzz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -112,11 +121,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\remon\\source\\repos\\Learnify\\Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\remon\\source\\repos\\Learnify\\Data\\Data.csproj"
+              "D:\\EraaSoft\\ProjectLearnify\\Learnify\\Data\\Data.csproj": {
+                "projectPath": "D:\\EraaSoft\\ProjectLearnify\\Learnify\\Data\\Data.csproj"
               },
-              "C:\\Users\\remon\\source\\repos\\Learnify\\Models\\Models.csproj": {
-                "projectPath": "C:\\Users\\remon\\source\\repos\\Learnify\\Models\\Models.csproj"
+              "D:\\EraaSoft\\ProjectLearnify\\Learnify\\Models\\Models.csproj": {
+                "projectPath": "D:\\EraaSoft\\ProjectLearnify\\Learnify\\Models\\Models.csproj"
               }
             }
           }
@@ -129,8 +138,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -142,17 +152,17 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[8.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[8.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[8.0.11, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -178,21 +188,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\remon\\source\\repos\\Learnify\\Models\\Models.csproj": {
+    "D:\\EraaSoft\\ProjectLearnify\\Learnify\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\remon\\source\\repos\\Learnify\\Models\\Models.csproj",
+        "projectUniqueName": "D:\\EraaSoft\\ProjectLearnify\\Learnify\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\remon\\source\\repos\\Learnify\\Models\\Models.csproj",
-        "packagesPath": "C:\\Users\\remon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\remon\\source\\repos\\Learnify\\Models\\obj\\",
+        "projectPath": "D:\\EraaSoft\\ProjectLearnify\\Learnify\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\mmmzz\\.nuget\\packages\\",
+        "outputPath": "D:\\EraaSoft\\ProjectLearnify\\Learnify\\Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\remon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mmmzz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -216,8 +230,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -258,7 +273,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

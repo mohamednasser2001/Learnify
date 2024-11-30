@@ -15,5 +15,12 @@ namespace Data
 : base(options)
         {
         }
+
+        public DbSet<Instructor> Instructors { get; set; }
+        public DbSet<Course> Courses { get; set; }
+        public DbSet<Cart> Carts { get; set; }
+        public DbSet<Feedback> Feedbacks { get; set; }
+        public DbSet<Dashboard> Dashboards { get; set; }
+        public DbSet<CourseInstructor> CourseInstructors { get; set; }
     }
 }

@@ -17,11 +17,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="IRepository\" />
-	  <Folder Include="Repository\" />
-	</ItemGroup>
-
-	<ItemGroup>
 	  <ProjectReference Include="..\Models\Models.csproj" />
 	</ItemGroup>	
 
