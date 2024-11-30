@@ -11,7 +11,7 @@
         "projectName": "Data",
         "projectPath": "C:\\Users\\remon\\source\\repos\\Learnify\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\remon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\remon\\Source\\Repos\\Learnify\\Data\\obj\\",
+        "outputPath": "C:\\Users\\remon\\source\\repos\\Learnify\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\remon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,6 +49,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.11, )"
@@ -129,6 +133,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.11, )"

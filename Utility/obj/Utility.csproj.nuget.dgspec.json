@@ -11,7 +11,7 @@
         "projectName": "Utility",
         "projectPath": "C:\\Users\\remon\\source\\repos\\Learnify\\Utility\\Utility.csproj",
         "packagesPath": "C:\\Users\\remon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\remon\\Source\\Repos\\Learnify\\Utility\\obj\\",
+        "outputPath": "C:\\Users\\remon\\source\\repos\\Learnify\\Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\remon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

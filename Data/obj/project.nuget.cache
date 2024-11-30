@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "f5WaS+UXzZUi2ex5IlnrxjJ4Cg0MWxG+/FQ2IQXOAh9y+MCjUHEh33msEfn85HIrDoxfcYpLxsXZrhzqzvdaDQ==",
+  "dgSpecHash": "OL/VFRiHpvY3NzGptjg5IpAEBUON48erY78HFy9cGwaGW+Wd+I7A6qnOn79R81XdAIrz/PTOdrKcrAinl3L4eQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\remon\\source\\repos\\Learnify\\Data\\Data.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\remon\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\remon\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\remon\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
     "C:\\Users\\remon\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

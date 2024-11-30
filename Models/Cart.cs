@@ -15,12 +15,11 @@ namespace Models
     {
         public int CourseId { get; set; }
         [ForeignKey(nameof(CourseId))]
-        [ValidateNever]
+
         public Course course { get; set; }
         
         public string ApplicationUserId { get; set; }
         [ForeignKey(nameof(ApplicationUserId))]
-        [ValidateNever]
         public ApplicationUser ApplicationUser { get; set; }
         
         public int Count { get; set; }

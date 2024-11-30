@@ -24,8 +24,7 @@ namespace Models
         public string Category { get; set; }
 
         [Required(ErrorMessage = "Price is required.")]
-        [Range(0.01, double.MaxValue, ErrorMessage = "Price must be greater than 0.")]
-        public decimal Price { get; set; }
+        public int Price { get; set; }
 
         [Required(ErrorMessage = "CreateDate is required.")]
         [DataType(DataType.DateTime, ErrorMessage = "Invalid date format.")]

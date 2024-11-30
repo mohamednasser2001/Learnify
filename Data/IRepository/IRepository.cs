@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Data.IRepository
 {
-    internal interface IRepository<T> where T : class
+    public interface IRepository<T> where T : class
     {
         IQueryable<T> GetAll(string? include = null);
 
