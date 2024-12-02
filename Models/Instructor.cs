@@ -23,6 +23,7 @@ namespace Models
         public string Expertise { get; set; }
 
         public ICollection<CourseInstructor> CourseInstructors { get; set; }
+        public ICollection<InstructorQuiz> InstructorQuizzes { get; set; }
 
     }
 }

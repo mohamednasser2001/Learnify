@@ -31,6 +31,10 @@ namespace Models
         public DateTime CreateDate { get; set; }
 
         public ICollection<CourseInstructor> courseInstructors { get; set; }
+        public ICollection<CourseFeedback> courseFeedbacks { get; set; }
+        public ICollection<CourseUser> CourseUsers { get; set; } // Many-to-Many with Course
+        public ICollection<CourseWishlist> CourseWishlists { get; set; } // Many-to-Many with Wishlist
+        public ICollection<Lesson> Lessons { get; set; }
 
     }
 }

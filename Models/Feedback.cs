@@ -34,5 +34,6 @@ namespace Models
 
         [ForeignKey(nameof(CourseId))]
         public Course Course { get; set; }
+        public ICollection<CourseFeedback> courseFeedbacks { get; set; }
     }
 }

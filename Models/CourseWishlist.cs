@@ -9,17 +9,16 @@ using System.Threading.Tasks;
 
 namespace Models
 {
-    [PrimaryKey(nameof(CourseId), nameof(InstructorId))]
-    public class CourseInstructor
+    [PrimaryKey(nameof(CourseId), nameof(WishlistId))]
+    public class CourseWishlist
     {
         public int CourseId { get; set; }
         [ForeignKey(nameof(CourseId))]
         [ValidateNever]
         public Course Course { get; set; }
-
-        public int InstructorId { get; set; }
-        [ForeignKey(nameof(InstructorId))]
+        public int WishlistId { get; set; }
+        [ForeignKey(nameof(WishlistId))]
         [ValidateNever]
-        public Instructor Instructor { get; set; }
+        public Wishlist Wishlist { get; set; }
     }
 }
