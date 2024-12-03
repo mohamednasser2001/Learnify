@@ -30,9 +30,9 @@ namespace Learnify.Controllers
     {
         if (roleManager.Roles.IsNullOrEmpty())
         {
-            await roleManager.CreateAsync(new(SD.AdminRoll));
-            await roleManager.CreateAsync(new(SD.InstructorRoll));
-            await roleManager.CreateAsync(new(SD.StudentRoll));
+            await roleManager.CreateAsync(new("Admin"));
+            await roleManager.CreateAsync(new("Instructor"));
+            await roleManager.CreateAsync(new("Student"));
         }
 
         if (ModelState.IsValid)
@@ -47,7 +47,7 @@ namespace Learnify.Controllers
             var resualt = await userManager.CreateAsync(applicationUser, userDTO.Password);
             if (resualt.Succeeded)
             {
-                await userManager.AddToRoleAsync(applicationUser, SD.StudentRoll);
+                await userManager.AddToRoleAsync(applicationUser, "Student");
                 await signInManager.SignInAsync(applicationUser,false);
             }
             ModelState.AddModelError("Password", "InvalidPassword");
