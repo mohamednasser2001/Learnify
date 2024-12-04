@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\remon\\source\\repos\\Learnify\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|c:\\users\\mmmzz\\source\\repos\\learnify22\\data\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|solutionrelative:data\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|c:\\users\\mmmzz\\source\\repos\\learnify22\\data\\irepository\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|solutionrelative:data\\irepository\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,19 +18,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\Repository\\CartRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\Repository\\CartRepository.cs*",
+              "RelativeToolTip": "Data\\Repository\\CartRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:52:15.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\IRepository\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IRepository\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\IRepository\\ICartRepository.cs*",
+              "RelativeToolTip": "Data\\IRepository\\ICartRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:51:34.296Z",
+              "EditorCaption": ""
             }
           ]
         }

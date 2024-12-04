@@ -4893,19 +4893,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\remon\\.nuget\\packages\\": {}
+    "C:\\Users\\mmmzz\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\remon\\source\\repos\\Learnify\\Data\\Data.csproj",
+      "projectUniqueName": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "C:\\Users\\remon\\source\\repos\\Learnify\\Data\\Data.csproj",
-      "packagesPath": "C:\\Users\\remon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\remon\\source\\repos\\Learnify\\Data\\obj\\",
+      "projectPath": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\Data.csproj",
+      "packagesPath": "C:\\Users\\mmmzz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\remon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mmmzz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4919,8 +4924,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\remon\\source\\repos\\Learnify\\Models\\Models.csproj": {
-              "projectPath": "C:\\Users\\remon\\source\\repos\\Learnify\\Models\\Models.csproj"
+            "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Models\\Models.csproj": {
+              "projectPath": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Models\\Models.csproj"
             }
           }
         }
@@ -4933,8 +4938,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
-      }
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -4979,7 +4985,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

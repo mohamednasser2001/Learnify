@@ -1,9 +1,35 @@
 [
   {
-    "ContainingType": "Learnify.Controllers.AcountController",
+    "ContainingType": "Learnify.Controllers.AccountController",
+    "Method": "Login",
+    "RelativePath": "api/Account/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDTO",
+        "Type": "Learnify.DTO.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Learnify.Controllers.AccountController",
+    "Method": "Logout",
+    "RelativePath": "api/Account/Logout",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Learnify.Controllers.AccountController",
     "Method": "Regester",
-    "RelativePath": "api/Acount",
-    "HttpMethod": "",
+    "RelativePath": "api/Account/Regester",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
