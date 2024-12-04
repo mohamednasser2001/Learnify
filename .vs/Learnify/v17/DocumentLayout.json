@@ -3,12 +3,92 @@
   "WorkspaceRootPath": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|c:\\users\\mmmzz\\source\\repos\\learnify22\\data\\repository\\wishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|solutionrelative:data\\repository\\wishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|c:\\users\\mmmzz\\source\\repos\\learnify22\\data\\repository\\videorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|solutionrelative:data\\repository\\videorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|c:\\users\\mmmzz\\source\\repos\\learnify22\\data\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|solutionrelative:data\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|c:\\users\\mmmzz\\source\\repos\\learnify22\\data\\repository\\quizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|solutionrelative:data\\repository\\quizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|c:\\users\\mmmzz\\source\\repos\\learnify22\\data\\repository\\lessonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|solutionrelative:data\\repository\\lessonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|c:\\users\\mmmzz\\source\\repos\\learnify22\\data\\repository\\instructorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|solutionrelative:data\\repository\\instructorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|c:\\users\\mmmzz\\source\\repos\\learnify22\\data\\repository\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|solutionrelative:data\\repository\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|c:\\users\\mmmzz\\source\\repos\\learnify22\\data\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|solutionrelative:data\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|c:\\users\\mmmzz\\source\\repos\\learnify22\\data\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|solutionrelative:data\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|c:\\users\\mmmzz\\source\\repos\\learnify22\\data\\repository\\assignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|solutionrelative:data\\repository\\assignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|c:\\users\\mmmzz\\source\\repos\\learnify22\\data\\repository\\adminsettingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|solutionrelative:data\\repository\\adminsettingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|c:\\users\\mmmzz\\source\\repos\\learnify22\\data\\irepository\\iwishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|solutionrelative:data\\irepository\\iwishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|c:\\users\\mmmzz\\source\\repos\\learnify22\\data\\irepository\\ivideorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|solutionrelative:data\\irepository\\ivideorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|c:\\users\\mmmzz\\source\\repos\\learnify22\\data\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|solutionrelative:data\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|c:\\users\\mmmzz\\source\\repos\\learnify22\\data\\irepository\\iquizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|solutionrelative:data\\irepository\\iquizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|c:\\users\\mmmzz\\source\\repos\\learnify22\\data\\irepository\\ilessonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|solutionrelative:data\\irepository\\ilessonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|c:\\users\\mmmzz\\source\\repos\\learnify22\\data\\irepository\\iinstructorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|solutionrelative:data\\irepository\\iinstructorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|c:\\users\\mmmzz\\source\\repos\\learnify22\\data\\irepository\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|solutionrelative:data\\irepository\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|c:\\users\\mmmzz\\source\\repos\\learnify22\\data\\irepository\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|solutionrelative:data\\irepository\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|c:\\users\\mmmzz\\source\\repos\\learnify22\\data\\irepository\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|solutionrelative:data\\irepository\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|c:\\users\\mmmzz\\source\\repos\\learnify22\\data\\irepository\\iassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|solutionrelative:data\\irepository\\iassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|c:\\users\\mmmzz\\source\\repos\\learnify22\\data\\irepository\\iadminsettingsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77355B01-AD15-46D1-B7E5-B6C6F123EC6B}|Data\\Data.csproj|solutionrelative:data\\irepository\\iadminsettingsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,12 +114,116 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InstructorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\Repository\\InstructorRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\InstructorRepository.cs",
+              "ToolTip": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\Repository\\InstructorRepository.cs*",
+              "RelativeToolTip": "Data\\Repository\\InstructorRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:57:00.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LessonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\Repository\\LessonRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\LessonRepository.cs",
+              "ToolTip": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\Repository\\LessonRepository.cs*",
+              "RelativeToolTip": "Data\\Repository\\LessonRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:58:39.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuizRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\Repository\\QuizRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\QuizRepository.cs",
+              "ToolTip": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\Repository\\QuizRepository.cs*",
+              "RelativeToolTip": "Data\\Repository\\QuizRepository.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:59:44.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\Repository\\UserRepository.cs*",
+              "RelativeToolTip": "Data\\Repository\\UserRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:01:00.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VideoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\Repository\\VideoRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\VideoRepository.cs",
+              "ToolTip": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\Repository\\VideoRepository.cs*",
+              "RelativeToolTip": "Data\\Repository\\VideoRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:02:01.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "WishlistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\Repository\\WishlistRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\WishlistRepository.cs",
+              "ToolTip": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\Repository\\WishlistRepository.cs*",
+              "RelativeToolTip": "Data\\Repository\\WishlistRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:02:56.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FeedbackRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\Repository\\FeedbackRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\FeedbackRepository.cs",
+              "ToolTip": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\Repository\\FeedbackRepository.cs*",
+              "RelativeToolTip": "Data\\Repository\\FeedbackRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:54:25.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\Repository\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\Repository\\CourseRepository.cs*",
+              "RelativeToolTip": "Data\\Repository\\CourseRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:53:12.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CartRepository.cs",
               "DocumentMoniker": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\Repository\\CartRepository.cs",
               "RelativeDocumentMoniker": "Data\\Repository\\CartRepository.cs",
-              "ToolTip": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\Repository\\CartRepository.cs*",
-              "RelativeToolTip": "Data\\Repository\\CartRepository.cs*",
+              "ToolTip": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\Repository\\CartRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\CartRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T14:52:15.198Z",
@@ -47,15 +231,171 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
+              "Title": "AssignmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\Repository\\AssignmentRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\AssignmentRepository.cs",
+              "ToolTip": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\Repository\\AssignmentRepository.cs*",
+              "RelativeToolTip": "Data\\Repository\\AssignmentRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:51:01.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminSettingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\Repository\\AdminSettingRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\AdminSettingRepository.cs",
+              "ToolTip": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\Repository\\AdminSettingRepository.cs*",
+              "RelativeToolTip": "Data\\Repository\\AdminSettingRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:49:16.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IWishlistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\IRepository\\IWishlistRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IRepository\\IWishlistRepository.cs",
+              "ToolTip": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\IRepository\\IWishlistRepository.cs*",
+              "RelativeToolTip": "Data\\IRepository\\IWishlistRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:47:19.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IVideoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\IRepository\\IVideoRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IRepository\\IVideoRepository.cs",
+              "ToolTip": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\IRepository\\IVideoRepository.cs*",
+              "RelativeToolTip": "Data\\IRepository\\IVideoRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:46:21.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\IRepository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IRepository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\IRepository\\IUserRepository.cs*",
+              "RelativeToolTip": "Data\\IRepository\\IUserRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:45:45.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IQuizRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\IRepository\\IQuizRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IRepository\\IQuizRepository.cs",
+              "ToolTip": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\IRepository\\IQuizRepository.cs*",
+              "RelativeToolTip": "Data\\IRepository\\IQuizRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:44:53.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ILessonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\IRepository\\ILessonRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IRepository\\ILessonRepository.cs",
+              "ToolTip": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\IRepository\\ILessonRepository.cs",
+              "RelativeToolTip": "Data\\IRepository\\ILessonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:05:56.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IInstructorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\IRepository\\IInstructorRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IRepository\\IInstructorRepository.cs",
+              "ToolTip": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\IRepository\\IInstructorRepository.cs",
+              "RelativeToolTip": "Data\\IRepository\\IInstructorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:04:49.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IFeedbackRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\IRepository\\IFeedbackRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IRepository\\IFeedbackRepository.cs",
+              "ToolTip": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\IRepository\\IFeedbackRepository.cs",
+              "RelativeToolTip": "Data\\IRepository\\IFeedbackRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:03:50.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\IRepository\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IRepository\\ICourseRepository.cs",
+              "ToolTip": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\IRepository\\ICourseRepository.cs",
+              "RelativeToolTip": "Data\\IRepository\\ICourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:02:30.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "ICartRepository.cs",
               "DocumentMoniker": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\IRepository\\ICartRepository.cs",
               "RelativeDocumentMoniker": "Data\\IRepository\\ICartRepository.cs",
-              "ToolTip": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\IRepository\\ICartRepository.cs*",
-              "RelativeToolTip": "Data\\IRepository\\ICartRepository.cs*",
+              "ToolTip": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\IRepository\\ICartRepository.cs",
+              "RelativeToolTip": "Data\\IRepository\\ICartRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T14:51:34.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAssignmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\IRepository\\IAssignmentRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IRepository\\IAssignmentRepository.cs",
+              "ToolTip": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\IRepository\\IAssignmentRepository.cs",
+              "RelativeToolTip": "Data\\IRepository\\IAssignmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:01:43.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAdminSettingsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\IRepository\\IAdminSettingsRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IRepository\\IAdminSettingsRepository.cs",
+              "ToolTip": "C:\\Users\\mmmzz\\source\\repos\\Learnify22\\Data\\IRepository\\IAdminSettingsRepository.cs",
+              "RelativeToolTip": "Data\\IRepository\\IAdminSettingsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:00:08.141Z",
               "EditorCaption": ""
             }
           ]
